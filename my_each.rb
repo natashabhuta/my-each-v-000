@@ -1,4 +1,4 @@
-["Tim", "Tom", "Jim"]
+def my_each(array)
 my_each( [2, 4, 6, 8]) do |num|
    while num < 5
    yield (my_each[num])
