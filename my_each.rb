@@ -1,5 +1,6 @@
 def my_each(["desk", "chair", "bed"])
-  my_each(array) do |
+  my_each(array) do |furniture|
+    
   
   
   
