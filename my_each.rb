@@ -1,7 +1,7 @@
 def my_each( [2, 4, 6, 8])
   my_each(array) do |num|
    while num < 5
-   yield array[2, 4, 6, 8]
+   yield my_each
    num = num + 1 
 end
 array
