@@ -3,3 +3,4 @@ def my_each(["desk", "chair", "bed"])
     if furniture.start_with?("d")
   puts "I have a #{furniture}"
 end
+end 
