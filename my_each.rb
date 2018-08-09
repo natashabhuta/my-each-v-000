@@ -3,8 +3,6 @@ def my_each([2, 4, 6, 8])
    while num < 5
    yield array[2, 4, 6, 8]
    num = num + 1 
-   
-    if furniture.start_with?("d")
-  puts "I have a #{furniture}"
 end
+array
 end 
