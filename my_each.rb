@@ -1,6 +1,6 @@
 def my_each(["desk", "chair", "bed"])
   my_each(array) do |furniture|
-    while furniture.start_with?("d")
+    if furniture.start_with?("d")
   
   
   
