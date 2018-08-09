@@ -1,6 +1,6 @@
 def my_each([2, 4, 6, 8])
   my_each(array) do |num|
-   while num is  
+   while num < 5 
    
    
     if furniture.start_with?("d")
